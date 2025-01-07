@@ -1,15 +1,3 @@
 [submodule "trellis/representations/mesh/flexicubes"]
 	path = trellis/representations/mesh/flexicubes
 	url = https://github.com/MaxtirError/FlexiCubes.git
-
-[submodule "extensions/nvdiffrast"]
-	path = extensions/nvdiffrast
-	url = https://github.com/NVlabs/nvdiffrast.git
-
-[submodule "extensions/diffoctreerast"]
-	path = extensions/diffoctreerast
-	url = https://github.com/JeffreyXiang/diffoctreerast.git
-
-[submodule "extensions/mip-splatting"]
-	path = extensions/mip-splatting
-	url = https://github.com/autonomousvision/mip-splatting.git
