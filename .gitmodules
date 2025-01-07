@@ -2,14 +2,14 @@
 	path = trellis/representations/mesh/flexicubes
 	url = https://github.com/MaxtirError/FlexiCubes.git
 
-[submodule "third_party/TRELLIS/extensions/nvdiffrast"]
-	path = third_party/TRELLIS/extensions/nvdiffrast
+[submodule "extensions/nvdiffrast"]
+	path = extensions/nvdiffrast
 	url = https://github.com/NVlabs/nvdiffrast.git
 
-[submodule "third_party/TRELLIS/extensions/diffoctreerast"]
-	path = third_party/TRELLIS/extensions/diffoctreerast
+[submodule "extensions/diffoctreerast"]
+	path = extensions/diffoctreerast
 	url = https://github.com/JeffreyXiang/diffoctreerast.git
 
-[submodule "third_party/TRELLIS/extensions/mip-splatting"]
-	path = third_party/TRELLIS/extensions/mip-splatting
+[submodule "extensions/mip-splatting"]
+	path = extensions/mip-splatting
 	url = https://github.com/autonomousvision/mip-splatting.git
